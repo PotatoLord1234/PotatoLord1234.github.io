@@ -1,0 +1,45 @@
+.titleandsub {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    text-align:center;
+}
+body {
+    background-color: black;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+.link {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+.image {
+    position: relative;
+    left: 25%;
+}
+.iframe {
+    position: relative;
+}
+.gameslist {
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    font-size: 300%;
+    text-align: center;
+    position: relative;
+}
+a:link{
+    color:white;
+}
+a:hover {
+    color:grey;
+    
+}
+a:visited {
+    color:white;
+}
+ol {
+    list-style:none;
+}
